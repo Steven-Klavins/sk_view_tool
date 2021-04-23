@@ -10,7 +10,7 @@ I may update it at some point in the near future, however, as it presently stand
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'sk_view_tool'
+gem 'sk_view_tool', git: "https://github.com/Steven-Klavins/sk_view_tool"
 ```
 
 And then execute:
