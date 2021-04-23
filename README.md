@@ -19,5 +19,5 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install sk_view_tool
+    $ gem install sk_view_tool, git: "https://github.com/Steven-Klavins/sk_view_tool"
 
